@@ -11,7 +11,6 @@ public class dia2 {
 		Locale.setDefault(Locale.US);
 		
 		char resp;
-		
 		do {
 			System.out.println("Digite a temperatura em Celsius: ");
 			 double c = sc.nextDouble();
